@@ -1,0 +1,150 @@
+body{
+    font-weight: 700;
+    margin-top: 20px;
+    font-family:'Rubik', sans-serif;
+    letter-spacing: 1;
+}
+h1{
+    font-size: 40px;
+    font-weight: 800;
+
+}
+span{
+    color: #FE4F30;
+}
+.top{
+    display: flex;
+    
+}
+.half-width-one{
+    width:50%;
+    padding-left: 90px;
+    margin-top: 110px;
+}
+.half-width-two{
+    width:50%;
+    padding-left: 90px;
+    display: inline-block;
+    margin-top: 30px;
+}
+.link-button{
+    text-decoration: none;
+    background: #FE4F30;
+    padding: 18px 30px;
+    border-radius: 20px;
+    color: white;
+    font-weight: 700;
+    margin-top: 20px;
+    display: inline-block;
+}
+.anchor button{
+    margin-top: 10px;
+}
+.banner{
+    display: flex;
+    background-image: url(images1/7.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-top: 10px;
+}
+.half-width{
+    width: 50%;
+    padding: 5%;
+    margin: 30px 20px 20px 20px;
+}
+.half-width img{
+    max-width: 60%;
+}
+.half-width h2{
+    font-size: 30px;
+}
+.recipies h3{
+    font-size: 30px;
+    text-align: center;
+}
+.recipies p{
+    font-size: 20px;
+    text-align: center;
+    padding-bottom: 20px;
+}
+.foods{
+    margin-bottom: 20px;
+}
+.recipe-food{
+    display: flex;
+}
+.box-one{
+    width: 22.5%;
+    margin-left: 10%;
+    box-shadow: 10px 10px 40px gray;
+    padding: 15px;
+    border-radius: 10px;
+}
+.box-one img{
+    width: 300px;
+    height: 250px;
+}
+.box-two{
+    width:auto;
+    margin-left: 5%;
+    box-shadow: 10px 10px 40px gray;
+    padding: 15px;
+    border-radius: 10px;
+}
+.box-two img{
+    width: 300px;
+    height: 250px;
+}
+.box-three{
+    width: 22.5%;
+    margin-left: 5%;
+    box-shadow: 10px 10px 40px gray;
+    padding: 15px;
+    border-radius: 10px;
+}
+.box-three img{
+    width: 300px;
+    height: 250px;
+}
+.bottom{
+    display: flex;
+    margin-top: 100px;
+    box-shadow: 0px 0px 30px gray;
+    border-radius: 10px;
+}
+.bottom h2{
+    font-size: 45px;
+    font-weight: bolder;
+    color: crimson;
+}
+.bottom p{
+    font-weight: lighter;
+}
+.part-one{
+    width: 15%;
+    margin-left: 15%;
+
+    
+}
+.part-two{
+    width: 15%;
+    margin-left: 15%;
+}
+.part-three{
+    width: 15%;
+    margin-left: 15%;
+    
+}
+.footer{
+    margin-top: 150px;
+    text-align: center;
+    height: 200px;
+    background-color: black;
+}
+.last p{
+    color: azure;
+}
+
+
+
+    
